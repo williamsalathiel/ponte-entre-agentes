@@ -1,0 +1,17 @@
+# Dados locais: segredos, mensagens e log. Nunca versionar.
+dados/
+
+# Ambientes Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Segredos e arquivos locais
+.env
+*.log
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
