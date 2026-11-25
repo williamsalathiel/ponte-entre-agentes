@@ -38,4 +38,4 @@ Os segredos, as mensagens e o log ficam em `dados/`, que o git ignora. Nunca sub
 
 ## Licença
 
-Ainda não definida.
+MIT. Veja [LICENSE](LICENSE).
